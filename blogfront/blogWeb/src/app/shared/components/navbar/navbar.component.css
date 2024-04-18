@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+.example-spacer {
+    flex: 1 1 auto;
+}
+
+.mat-toolbar{
+    background-color: cornflowerblue;
+}
+.mat-icon{
+    color: white;
+}
+
